@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   
+    margin: 60px;
+    justify-content: center; 
+    align-items: center;
+   
+
+}
+
+
+input{
+    width: 30vw;
+    height: 30px;
+    border-radius: 50px;
+    gap: 100px;
+    
+}
+button{
+    position: relative;
+    margin-top: 40px;
+    background-color: transparent;
+    width: 60px;
+    background-color: rgb(134, 127, 127);
+    color: white;
+
+}
+
+.table{
+    margin-top: 40px;
+    border: 4px;
+    
+}
+
+h3{
+    margin-top: 60px;
+    padding: 5px;
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
